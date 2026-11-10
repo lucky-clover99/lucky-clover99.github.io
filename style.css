@@ -11,8 +11,9 @@
    Colors and Variables
    ========================================= */
 
+
 :root {
-  --blue: #314775;
+  --blue: #465D85;
   --yellow: #f1cb72;
   --cream: #faf8f2;
   --white: #ffffff;
@@ -20,6 +21,7 @@
   --muted: #5e6980;
   --border: #dce1ea;
 }
+
 
 /* =========================================
    General Styles
